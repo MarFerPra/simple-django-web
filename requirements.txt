@@ -28,8 +28,6 @@ pycurl==7.43.0
 pygpgme==0.3
 pyliblzma==0.5.3
 pymongo==3.4.0
-PyMySQL==0.7.5
-pysqlite==1.0.1
 requests==2.10.0
 rpm-python==4.12.0.1
 s2sphere==0.2.4
